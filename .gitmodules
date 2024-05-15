@@ -1,0 +1,6 @@
+[submodule "good_job_fe"]
+	path = good_job_fe
+	url = git@github.com:xt086/good_job_fe.git
+[submodule "good_job_be"]
+	path = good_job_be
+	url = git@github.com:xt086/good_job_be.git
